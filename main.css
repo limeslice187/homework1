@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Style the header */
+  header {
+    background-color: lightblue;
+  }
+  
+  /* Style the navigation bar */
+  nav {
+    background-color: lightgrey;
+  }
+  
+  /* Style the main section */
+  main {
+    background-color: #f9f9f9;
+    font-size: 18px;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: lightblue;
+  }
+  
+  /* Style the list items */
+  li {
+    display: inline-block;
+    width: auto;
+    margin-right: 10px;
+  }
+  
+  /* Style the h1 tag */
+  h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: darkgreen;
+  }
+  
+  /* Style the paragraphs */
+  p {
+    line-height: 1.6;
+  }
